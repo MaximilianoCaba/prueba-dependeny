@@ -1,0 +1,4 @@
+com\cromosol\voucherGenerator\BaseTest.class
+com\cromosol\voucherGenerator\builder\ItemVoucherBuilder.class
+com\cromosol\voucherGenerator\service\VoucherGeneratorServiceTest.class
+com\cromosol\voucherGenerator\builder\VoucherBuilder.class

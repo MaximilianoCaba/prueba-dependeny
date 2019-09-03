@@ -1,0 +1,12 @@
+com\cromosol\voucherGenerator\entity\ItemVoucher.class
+com\cromosol\voucherGenerator\util\XmlUtil.class
+com\cromosol\voucherGenerator\util\PdfCreationUtil.class
+com\cromosol\voucherGenerator\enums\CompanyEnum.class
+com\cromosol\voucherGenerator\VoucherGeneratorApplication.class
+com\cromosol\voucherGenerator\exception\PDFCreationException.class
+com\cromosol\voucherGenerator\util\DocumentWrapper.class
+com\cromosol\voucherGenerator\entity\Voucher.class
+com\cromosol\voucherGenerator\util\PdfClasspathUriResolver.class
+com\cromosol\voucherGenerator\entity\VoucherPage.class
+com\cromosol\voucherGenerator\service\VoucherGeneratorService.class
+com\cromosol\voucherGenerator\service\impl\VoucherGeneratorServiceImpl.class
